@@ -13,7 +13,8 @@ for the make.fun competition
 
 `entry.png` (1024×1024, PNG) is a newspaper front page with the day's
 four biggest stories, each with an illustration, a headline and a
-one-line summary:
+one-line summary, plus an "IN BRIEF" strip with four more headlines
+from the same day:
 
 1. **Middle East — Gulf on edge.** US jets struck a Revolutionary Guard
    missile site on Qeshm Island, Iran; Iran answered with drones at US
@@ -26,6 +27,11 @@ one-line summary:
 4. **Health — DR Congo.** The Ebola outbreak more than doubled: over
    11,000 cases and 5,400 deaths, the UN says; three in four infected
    children under five do not survive.
+
+**In brief:** the US loses its measles-free status after 26 years
+(5,400+ cases); Democrats win the Alaska Senate seat and take a 56–44
+majority; Voyager 1 reaches one light-day from Earth, a NASA record;
+a Russian military plane crashes in Siberia, 19 dead.
 
 The four illustrations are AI-generated; the facts were checked against
 Reuters / AP / AFP / UN reporting of 18 November 2026.
